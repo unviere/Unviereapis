@@ -5,9 +5,9 @@
     "StartTime": "00:00",
     "EndDate": "07-01-2023",
     "EndTime": "00:00",
-    "UTC": "-/+ 0"
+    "UTC": "-/+ 0",
     "Description": "",
-    "Icon": ""
+    "Icon": "",
     "Reward": {
       "Enabled": false,
       "Title": "",
