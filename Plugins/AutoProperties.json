@@ -1,0 +1,9 @@
+{
+  "Version": "0.1.0"
+  "OGVersion": "2"
+  "VersionInfo": {
+"ReleaseNotes": "• New responsive ui<br /><br /> • 4 toolbox style navigation tabs<br /><br /> • Topbar with search function and dropdown (search isn’t supported yet)<br /><br /> • Revamped instance card<br /><br /> • Properties customized<br /><br /> • Some next gen ui testst <br /><br /> • Dark mode toggle<br /><br /> • First pro tool",
+   "Iseus": "• some Data doesn’t save <br /><br /> • Tutorial prompt 2 by go back disable the tooltip <br /><br /> • Tutorial prompt 3 back enable the Topbar tooltip",
+    "Changes": "New responsive ui <br /><br /> • Changed navigation to toolbox style <br /><br /> • Changed Topbar (responsive) <br /><br /> • Changed instance card <br /><br /> • Removed block list on left (now it’s own instance card) <br /><br /> • Removed 3 dots menu a disable in dropdown in settings now"
+  }
+}
