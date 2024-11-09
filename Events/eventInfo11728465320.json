@@ -12,7 +12,7 @@
     "Reward": {
       "Enabled": true,
       "Title": "hi",
-      "Icon": "",
+      "Icon": "https://raw.githubusercontent.com/unviere/Unviereapis/refs/heads/main/Img/fallbacCo.png",
       "Description":"lol",
       "Type": "none"
     }
