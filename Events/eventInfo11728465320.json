@@ -10,11 +10,11 @@
     "Description": "",
     "Icon": "",
     "Reward": {
-      "Enabled": false,
-      "Title": "",
+      "Enabled": true,
+      "Title": "hi",
       "Icon": "",
-      "Description":"",
-      "Type": ""
+      "Description":"lol",
+      "Type": "none"
     }
   },
   "Description": "the first event original run for happy obbies its also the first christmass obby you as always can each day till christmass play a new level but now all levels are aviable",
