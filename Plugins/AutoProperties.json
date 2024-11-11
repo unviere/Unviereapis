@@ -3,11 +3,11 @@
   "OGVersion": 3,
   "VersionInfo": {
     "VersionAnotation": "V0.1.1 [beta]",
-    "Description": "thanks for use auto properties. <br /><br /> version 0.1.1 theres new data so you need to wait until the new data is saved after updating",
+    "Description": "thanks for use auto properties. <br /> version 0.1.1 theres new data so you need to wait until the new data is saved after updating",
     "NewData": true,
-    "BugFixes": "• fixed a bug with propertie pannel blocks dragger and scrolling in viewport <br /><br />",
-"ReleaseNotes": "• New responsive ui<br /><br /> • 4 toolbox style navigation tabs<br /><br /> • Topbar with search function and dropdown (search isn’t supported yet)<br /><br /> • Revamped instance card<br /><br /> • Properties customized<br /><br /> • Some next gen ui testst <br /><br /> • Dark mode toggle<br /><br /> • First pro tool",
-   "Iseus": "• some Data doesn’t save <br /><br /> • Tutorial prompt 2 by go back disable the tooltip <br /><br /> • Tutorial prompt 3 back enable the Topbar tooltip",
-    "Changes": "New responsive ui <br /><br /> • Changed navigation to toolbox style <br /><br /> • Changed Topbar (responsive) <br /><br /> • Changed instance card <br /><br /> • Removed block list on left (now it’s own instance card) <br /><br /> • Removed 3 dots menu a disable in dropdown in settings now"
+    "BugFixes": " <b> Bug Fixes:</b> <br /> • fixed a bug with propertie pannel blocks dragger and scrolling in viewport <br />",
+"ReleaseNotes": "<b> Release Notes </b> • New responsive ui<br />  • 4 studio style navigation tabs<br />  • Topbar with search function and dropdown (search isn’t supported yet)<br />  • Revamped instance card<br />  • Properties customized<br />  • Some next gen ui testst <br /> • Dark mode toggle<br /> • First pro tool",
+   "Iseus": " <b> Known Iseus</b> <br />  some Data doesn’t save <br /> • Tutorial prompt 2 by go back disable the tooltip <br /> • Tutorial prompt 3 back enable the Topbar tooltip",
+    "Changes": "<b> Changes: </b> </b> • New responsive ui <br /> • Changed navigation to toolbox style <br /> • Changed Topbar (responsive) <br />• Changed instance card <br /> • Removed block list on left (now it’s own instance card) <br />• Removed 3 dots menu a disable in dropdown in settings now"
   }
 }
