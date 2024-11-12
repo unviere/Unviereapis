@@ -1,0 +1,24 @@
+{
+  "Name": "co 23",
+  "info": {
+    "repeating": true,
+    "StartDate": "01-12-2023",
+    "StartTime": "00:00",
+    "EndDate": "07-01-2024",
+    "EndTime": "00:00",
+    "UTC": 1,
+    "TimeZone": "+",
+    "Description": "",
+    "Icon": "",
+    "Reward": {
+      "Enabled": true,
+      "Title": "Decoration for Parellelized Engineers",
+      "Icon": "rbxassetid://15738808271",
+      "Description":"you get a decoration for the (poused) game Parallelized Engineers a christmass tree to decorate your fort ",
+      "Type": "Decoration"
+    }
+  },
+  "Description": "Hi there this is the cristmass obby from 2023. Drag objects to make your way in this obby.until Christmas you can each day play a new level. you can collect coins. Collect them all to buy a gift at the end from the Obby. What give you a random badge for a decoration in a new game release next year. Hold on my socials or take a look in my group for information about when it realase is. /n Buy the tool pass to get a speed coil and a gravity coil /n Premium users will get a Benefit in new year obby if they complete the obby /n Note: deu a bug on the tutorial prompts by the level signs I recommend not use the prompts if you have Epilepsy cuz you see Flash if the image change ",
+  "OGDescriptionEnabled": false,
+  "OGDescription": ""
+}
