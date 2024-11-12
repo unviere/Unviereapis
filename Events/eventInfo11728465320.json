@@ -1,4 +1,5 @@
 {
+  "Name": "co 22",
   "info": {
     "repeating": false,
     "StartDate": "01-12-2022",
@@ -10,7 +11,7 @@
     "Description": "",
     "Icon": "",
     "Reward": {
-      "Enabled": true,
+      "Enabled": false,
       "Title": "hi",
       "Icon": "rbxassetid://94384292151991",
       "Description":"lol",
