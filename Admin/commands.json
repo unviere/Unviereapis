@@ -1,23 +1,24 @@
-{"usedCommands": {
-  "6519358648": {
-    "SetStage": true,
-    "TpRandomGift": true,
-    "TpCheckpoint": true,
-    "SetSpeed": true,
-    "ClearCollectedGifts": true,
-    "ViewStage": true,
-    "SetCoins": true,
-    "SkipStage": true
-  },
-    "1234": {
-    "SetStage": false,
-    "TpRandomGift": true,
-    "TpCheckpoint": true,
-    "SetSpeed": true,
-    "ClearCollectedGifts": true,
-    "ViewStage": true,
-    "SetCoins": true,
-    "SkipStage": true
-  }
-}
+{
+    "usedCommands": {
+        "6519358648": {
+            "SetStage": true,
+            "TpRandomGift": true,
+            "TpCheckpoint": true,
+            "SetSpeed": true,
+            "ClearCollectedGifts": true,
+            "ViewStage": true,
+            "SetCoins": true,
+            "SkipStage": true
+        },
+        "1234": {
+            "SetStage": false,
+            "TpRandomGift": true,
+            "TpCheckpoint": true,
+            "SetSpeed": true,
+            "ClearCollectedGifts": true,
+            "ViewStage": true,
+            "SetCoins": true,
+            "SkipStage": true
+        }
+    }
 }
