@@ -7,7 +7,7 @@
     "ClearCollectedGifts": true,
     "ViewStage": true,
     "SetCoins": true,
-    "SkipStage": true,
+    "SkipStage": true
   },
     "1234": {
     "SetStage": false,
@@ -17,7 +17,7 @@
     "ClearCollectedGifts": true,
     "ViewStage": true,
     "SetCoins": true,
-    "SkipStage": true,
+    "SkipStage": true
   }
 }
 }
