@@ -6,7 +6,7 @@
     "Description": "thanks for use auto properties. <br /> version 0.1.1 theres new data so you need to wait until the new data is saved after updating",
     "NewData": true,
     "BugFixes": " <b> Bug Fixes:</b> <br /> • fixed a bug with propertie pannel blocks dragger and scrolling in viewport <br />",
-"ReleaseNotes": "<b> Release Notes:</b> <br /> • New responsive ui <br />  • 4 studio style navigation tabs <br /> • Topbar with search function and dropdown (search isn’t supported yet) <br /> • Revamped instance card <br /> • Properties customized <br /> • Some next gen ui testst <br /> • Dark mode toggle <br /> • First pro tool",
+"ReleaseNotes": "<b> Release Notes:</b> <br /> • New responsive ui <br /> • 4 studio style navigation tabs <br /> • Topbar with search function and dropdown (search isn’t supported yet) <br /> • Revamped instance card <br /> • Properties customized <br /> • Some next gen ui tests <br /> • Dark mode toggle <br /> • First pro tool",
    "Iseus": " <b> Known Iseus:</b> <br /> • some Data doesn’t save <br /> • Tutorial prompt 2 by go back disable the tooltip <br /> • Tutorial prompt 3 back enable the Topbar tooltip",
     "Changes": "<b> Changes:</b> <br /> • New responsive ui <br /> • Changed navigation to toolbox style <br /> • Changed Topbar (responsive) <br /> • Changed instance card <br /> • Removed block list on left (now it’s own instance card) <br /> • Removed 3 dots menu a disable in dropdown in settings now"
   }
