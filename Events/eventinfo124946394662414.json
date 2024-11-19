@@ -1,0 +1,24 @@
+{
+  "Name": "co 24",
+  "info": {
+    "repeating": true,
+    "StartDate": "01-12-2024",
+    "StartTime": "00:00",
+    "EndDate": "07-01-2025",
+    "EndTime": "00:00",
+    "UTC": 1,
+    "TimeZone": "+",
+    "Description": "",
+    "Icon": "",
+    "Reward": {
+      "Enabled": true,
+      "Title": "more info soon",
+      "Icon": "",
+      "Description":"pending more info soon",
+      "Type": "??"
+    }
+  },
+  "Description": "event christmass obby as running each year this year with new UI and a double jump and roll ability. ",
+  "OGDescriptionEnabled": false,
+  "OGDescription": ""
+}
