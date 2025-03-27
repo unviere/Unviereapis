@@ -44,7 +44,7 @@
       "OGVersion": 3,
       "VersionInfo": {
         "VersionAnotation": "V0.1.0 [beta]",
-        "Description": "thanks for use auto properties. <br /> version 0.1.1 theres new data so you need to wait until the new data is saved after updating",
+        "Description": "thanks for use auto properties. <br /> version 0.1.0 theres new data so you need to wait until the new data is saved after updating",
         "NewData": true,
         "BugFixes": "n/a",
         "ReleaseNotes": "<b> Release Notes:</b> <br /> • New responsive ui <br /> • 4 (QT) studio style navigation tabs <br /> • Topbar with search function and dropdown (search isn’t supported yet) <br /> • Revamped instance card <br /> • Properties customized <br /> • Some next gen ui tests <br /> • Dark mode toggle <br /> • <s>First pro tool</s>",
