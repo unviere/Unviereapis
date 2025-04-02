@@ -1,0 +1,58 @@
+{
+    "roadmaps": [
+        {
+            "title": "CHAPTER 2",
+            "shortDesc": "time for a new era",
+            "desc": "whats going on dont lets we spoil to much well if you not csared for spoilers read further cuz chapter 2 is comming soon",
+            "thumb": "n/a",
+            "webThumb": "n/a",
+            "Info": [
+                {
+                    "Type": "imgRectangle",
+                    "pos": "Center",
+                    "img": "rbxassetid://132566499868528",
+                    "webImg": ""
+                },
+                {
+                  "Type": "txt",
+                  "text": "yes its sofar time for chapter 2 the adventure goes further did you realy defeat the ereivnu corp or your mision failed? well one thing is sure find it out in chapter 2"  
+                }
+            ]
+        },
+        {
+            "title": "game rewrite",
+            "shortDesc": "we will rewrite the entire game",
+            "desc": "you seen bugs with data not loading well i have a new system for data loading thats makes it faster so we rewrite the entire game",
+            "thumb": "n/a",
+            "webThumb": "n/a",
+            "Info": [
+                {
+                  "Type": "txt",
+                  "text": "also the story displays felt slow so this being also rewritted"  
+                },
+                {
+                    "Type": "ul",
+                    "titleIncluding": true,
+                    "title": "the folowing items be rewritted",
+                    "ul":[
+                        {
+                            "list-style-type": "disc",
+                            "li": "1|Story",
+                            "li-html": ""
+                        },
+                        {
+                            "list-style-type": "disc",
+                            "li": "1|Data System",
+                            "li-html": ""
+                        },
+                        {
+                            "list-style-type": "disc",
+                            "li": "2|inventory |type-tag>new",
+                            "li-html": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
