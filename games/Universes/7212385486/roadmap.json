@@ -37,16 +37,19 @@
                     "ul":[
                         {
                             "list-style-type": "disc",
+                            "itemIndex": 1,
                             "li": "1|Story",
                             "li-html": ""
                         },
                         {
                             "list-style-type": "disc",
+                            "itemIndex": 2,
                             "li": "1|Data System",
                             "li-html": ""
                         },
                         {
                             "list-style-type": "disc",
+                            "itemIndex": 1,
                             "li": "2|inventory |type-tag¤1¤#00ff00§new",
                             "li-html": ""
                         }
