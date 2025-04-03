@@ -47,7 +47,7 @@
                         },
                         {
                             "list-style-type": "disc",
-                            "li": "2|inventory |type-tag>new",
+                            "li": "2|inventory |type-tag>1>new",
                             "li-html": ""
                         }
                     ]
