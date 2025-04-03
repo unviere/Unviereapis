@@ -48,8 +48,8 @@
                             "li-html": ""
                         },
                         {
-                            "list-style-type": "disc",
-                            "itemIndex": 1,
+                            "list-style-type": "circle",
+                            "itemIndex": 3,
                             "li": "2|inventory |type-tag¤1¤#00ff00§new",
                             "li-html": ""
                         }
