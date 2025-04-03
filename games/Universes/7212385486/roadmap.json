@@ -43,13 +43,13 @@
                         },
                         {
                             "list-style-type": "disc",
-                            "itemIndex": 2,
+                            "itemIndex": 1,
                             "li": "1|Data System",
                             "li-html": ""
                         },
                         {
-                            "list-style-type": "circle",
-                            "itemIndex": 3,
+                            "list-style-type": "disk",
+                            "itemIndex": 1,
                             "li": "2|inventory |type-tag¤1¤#00ff00§new",
                             "li-html": ""
                         }
