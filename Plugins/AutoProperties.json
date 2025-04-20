@@ -64,6 +64,19 @@
         "Iseus": "<b> Known Iseus:</b> <br /> • some Data doesn’t save <br /> • Tutorial prompt 2 by go back disable the tooltip <br /> • Tutorial prompt 3 back enable the Topbar tooltip",
         "Changes": "<b> Changes:</b> <br /> • New responsive ui <br /> • Changed navigation to toolbox style <br /> • Changed Topbar (responsive) <br /> • Changed instance card <br /> • Removed block list on left (now it’s own instance card) <br /> • Removed 3 dots menu a disable in dropdown in settings now"
       }
+    },
+    {
+      "Version": "0.2.0",
+      "OGVersion": 5,
+      "VersionInfo": {
+        "VersionAnotation": "V0.2.0 [beta]",
+        "Description": "thanks for use auto properties. <br /> version 0.2.0 improved some things and released a new tool. also Auto properties fully be rewritted with new UIS and new improved systems so it will be much more improved share sneak peaks on the dev forum treat soon and also stay tunned for the opt in setting.",
+        "NewData": false,
+        "BugFixes": "<b> Bug Fixes:</b> <br /> • fixed a bug with welcome screen  <br /> • fixed some pain points <br /> • fixed bugs with massages",
+        "ReleaseNotes": "<b> Release Notes:</b> <br /> • added an quicq actions menu <br /> • added some expandable groups to next gen UIS test (This probably will be used in the next Gen) <br /> • added an new tool with this you can get an users user id by filling in thier name or get thier name from thier id <br /> • added release notes gui <br /> • when new update is aviable you be notified about it</s>",
+        "Iseus": "<b> Known Iseus:</b> <br /> • Dark Mode and light Mode might be zwitching unexpectetly on startup but your preverences load its only if you set it to dark mode you might shortly see it going to light mode and then to dark mode",
+        "Changes": "<b> Changes:</b> <br /> • moved all stuff from other and guis to one page caled instances <br /> • moved next gen UI tests to other tab <br /> • rewritted alot of stuff including an new data save system no more need of saving new data cuz there arent atributtes used for anymore so there no atributtes that become nil as that was the reason for saving new data first (only you now need to transfer your old data to the new system once) <br />"
+      }
     }
   ]
 }
