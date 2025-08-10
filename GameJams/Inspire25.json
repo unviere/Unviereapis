@@ -1,4 +1,4 @@
 {
-  Enabled = true,
-  Note = "Hi there lol"
+  "Enabled": true,
+  "Note": "Hi there lol"
 }
