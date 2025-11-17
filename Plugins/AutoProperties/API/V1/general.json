@@ -1,0 +1,23 @@
+{
+  "lastVersion": "0.0.0",
+  "lastOGVersion": 1,
+  "description": "",
+  "name":"",
+  "banner":"",
+  "versions": [
+    {
+      "version": "0.0.0",
+      "ogVersion": 1,
+      "versionInfo": {
+        "versionAnotation": "V0.0.0 [alpha]",
+        "description": "auto properties is released with the non responsive plugin widget",
+        "newData": false,
+        "bugFixes": "n/a",
+        "releaseNotes": "<b> Release Notes:</b> <br /> • 3 menus with cards to insert an object with preset common properties <br /> • a menu with information <br /> • empty settings lol",
+        "iseus": "n/a",
+        "changes": "n/a",
+        "jsonDataVersion": 1
+      }
+    }
+  ]
+}
