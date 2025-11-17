@@ -10,20 +10,35 @@
       "ogVersion": 1,
       "versionInfo": {
         "versionAnotation": "V0.0.0 [alpha]",
-        "versionAnotationV2":"V0.0.0"
-        "versionTestPhrase":"_A"
+        "versionAnotationV2":"V0.0.0",
+        "versionTestPhrase":"_A",
         "description": "auto properties is released with the non responsive plugin widget",
         "newData": false,
         "bugFixes": "n/a",
-        "bugFixesV2"[
+        "bugFixesV2":[
           {
             "text":"",
-            "fixed":false,
+            "fixed":false
           }
         ],
         "releaseNotes": "<b> Release Notes:</b> <br /> • 3 menus with cards to insert an object with preset common properties <br /> • a menu with information <br /> • empty settings lol",
+        "releaseNotesV2":[
+          {
+            "text":""
+          }
+        ],
         "iseus": "n/a",
+        "iseusV2":[
+          {
+            "text":""
+          }
+        ],
         "changes": "n/a",
+        "changesV2":[
+          {
+            "text":""
+          }
+        ],
         "jsonDataVersion": 1
       }
     }
