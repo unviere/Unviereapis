@@ -1,0 +1,26 @@
+{
+  "__name": "co 24",
+  "info": {
+    "repeating": true,
+    "startDate": "01-12-2024",
+    "startTime": "00:00",
+    "endDate": "07-01-2025",
+    "endTime": "00:00",
+    "utcOffset": 1,
+    "timeZone": "+",
+    "description": "",
+    "name": "Christmas obby 2024 | do it double",
+    "icon": "",
+    "reward": {
+      "enabled": true,
+      "title": "Decoration for Parellelized Engineers",
+      "icon": "rbxassetid://15738808271",
+      "iconAlt": "",
+      "description":"these decorations are no longer aviable in 2023 and 2024 a test runs from 2025 - 2027 you can obtain those decoration for my dream game to release in an few years hopefuly.",
+      "type": "Decoration"
+    }
+  },
+  "description": "event christmass obby as running each year this year with new UI and a double jump and roll ability. ",
+  "ogDescriptionEnabled": false,
+  "ogDescription": ""
+}

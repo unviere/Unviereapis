@@ -1,0 +1,26 @@
+{
+  "__name": "co 25",
+  "info": {
+    "repeating": true,
+    "startDate": "01-12-2025",
+    "startTime": "18:00",
+    "endDate": "02-01-2026",
+    "endTime": "00:00",
+    "utcOffset": 0,
+    "timeZone": "+",
+    "description": "",
+    "name": "Christmas obby 2025 | the artic shuffle",
+    "icon": "",
+    "reward": {
+      "enabled": true,
+      "title": "Decoration for Project parallel",
+      "icon": "rbxassetid://84035553857095",
+      "iconAlt": "",
+      "description":"from 2025 - 2027 you can obtain those decoration for my dream game to release in an few years hopefuly.",
+      "type": "Decoration"
+    }
+  },
+  "description": "Are you ready for an adventure at the artic. But theres the thing each time you respawn the levels will shuffle. ",
+  "ogDescriptionEnabled": false,
+  "ogDescription": ""
+}

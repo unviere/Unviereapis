@@ -9,31 +9,33 @@
       "version": "0.0.0",
       "ogVersion": 1,
       "versionInfo": {
+        "[depracated]":"",
         "versionAnotation": "V0.0.0 [alpha]",
+        "newData": false,
+        "bugFixes": "n/a",
+        "changes": "n/a",
+        "iseus": "n/a",
+        "releaseNotes": "",
+        "-------------":"------------",
         "versionAnotationV2":"V0.0.0",
         "versionTestPhrase":"_A",
         "description": "auto properties is released with the non responsive plugin widget",
-        "newData": false,
-        "bugFixes": "n/a",
         "bugFixesV2":[
           {
             "text":"",
             "fixed":false
           }
         ],
-        "releaseNotes": "<b> Release Notes:</b> <br /> • 3 menus with cards to insert an object with preset common properties <br /> • a menu with information <br /> • empty settings lol",
         "releaseNotesV2":[
           {
             "text":""
           }
         ],
-        "iseus": "n/a",
         "iseusV2":[
           {
             "text":""
           }
         ],
-        "changes": "n/a",
         "changesV2":[
           {
             "text":""

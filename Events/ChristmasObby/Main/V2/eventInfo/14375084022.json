@@ -1,0 +1,25 @@
+{
+  "__name": "co 23",
+  "info": {
+    "repeating": true,
+    "startDate": "01-12-2023",
+    "startTime": "00:00",
+    "endDate": "07-01-2024",
+    "endTime": "00:00",
+    "utcOffset": 1,
+    "timeZone": "+",
+    "description": "",
+    "name":"Christmas obby 2023 | DragDetector obby",
+    "icon": "",
+    "reward": {
+      "enabled": true,
+      "title": "Decoration for Parellelized Engineers",
+      "icon": "rbxassetid://15738808271",
+      "description":"these decorations are no longer aviable in 2023 and 2024 a test runs from 2025 - 2027 you can obtain those decoration for my dream game to release in an few years hopefuly.",
+      "type": "Decoration"
+    }
+  },
+  "description": "Hi there this is the cristmass obby from 2023. Drag objects to make your way in this obby. \n \n until Christmas you can each day play a new level. you can collect coins. Collect them all to buy a gift at the end from the Obby. What give you a random badge for a decoration in a new game release next year. \n \n Hold on my socials or take a look in my group for information about when it realase is. \n \n Buy the tool pass to get a speed coil and a gravity coil \n \n Premium users will get a Benefit in new year obby if they complete the obby \n \n Note: deu a bug on the tutorial prompts by the level signs (Seizure Warning: A loading bug may cause rapid flashing images when using some prompts. Individuals with photosensitive epilepsy should use caution.)",
+  "ogDescriptionEnabled": false,
+  "ogDescription": ""
+}

@@ -1,1 +1,25 @@
-{}
+{
+    "__name": "co 22",
+    "info": {
+        "repeating": true,
+        "startDate": "01-12-2022",
+        "startTime": "00:00",
+        "endDate": "07-01-2023",
+        "endTime": "00:00",
+        "utcOffset": 1,
+        "timeZone": "+",
+        "description": "",
+        "name":"Christmas obby 2022 | Happy holiday obby",
+        "icon": "",
+        "reward": {
+            "enabled": false,
+            "title": "hi",
+            "icon": "rbxassetid://94384292151991",
+            "description": "lol",
+            "type": "none"
+        }
+    },
+    "description": "the first event original run for happy obbies its also the first christmass obby you as always can each day till christmass play a new level but now all levels are aviable",
+    "ogDescriptionEnabled": true,
+    "ogDescription": "this is an event of happy obbies you can played 1 level every day until christmass \r\n\r\nupdates\r\n-\r\nsounds\r\n- lobby\r\n- teleport to lobby\r\nfuturet updates\r\n- each  weekend new levels"
+}
