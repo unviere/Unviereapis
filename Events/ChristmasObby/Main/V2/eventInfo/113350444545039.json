@@ -8,7 +8,7 @@
     "endTime": "00:00",
     "utcOffset": 0,
     "timeZone": "+",
-    "description": "",
+    "description": "Are you ready for an adventure at the artic. But theres the thing each time you respawn the levels will shuffle. ",
     "name": "Christmas obby 2025 | the artic shuffle",
     "icon": "",
     "reward": {
@@ -20,7 +20,6 @@
       "type": "Decoration"
     }
   },
-  "description": "Are you ready for an adventure at the artic. But theres the thing each time you respawn the levels will shuffle. ",
   "ogDescriptionEnabled": false,
   "ogDescription": ""
 }
