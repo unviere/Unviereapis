@@ -1,4 +1,4 @@
 {
   "enabled": true,
-  "note": "have fun playing"
+  "note": "Deu to an bug in the friends fetch module when an user have no friends (it worked in studio server clients) the game might crash pls rejoin an empty server if so!"
 }
