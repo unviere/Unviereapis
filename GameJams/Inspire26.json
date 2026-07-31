@@ -1,4 +1,4 @@
 {
-  "Enabled": false,
-  "Note": "if you encounter bugs pls report it on our group wall"
+  "enabled": false,
+  "note": "if you encounter bugs pls report it on our group wall"
 }
